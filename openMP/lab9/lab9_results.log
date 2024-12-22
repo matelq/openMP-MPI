@@ -1,0 +1,73 @@
+Результаты запусков:
+Threads = 1
+Time without nested parallelism: 0.00439326 seconds
+Time with nested parallelism: 0.00800927 seconds
+0:00.09,
+Threads = 2
+Time without nested parallelism: 0.00261004 seconds
+Time with nested parallelism: 0.115718 seconds
+0:00.18,
+Threads = 3
+Time without nested parallelism: 0.0031319 seconds
+Time with nested parallelism: 0.305018 seconds
+0:00.36,
+Threads = 4
+Time without nested parallelism: 0.00273297 seconds
+Time with nested parallelism: 1.36774 seconds
+0:01.42,
+Threads = 5
+Time without nested parallelism: 0.00298049 seconds
+Time with nested parallelism: 2.07818 seconds
+0:02.14,
+Threads = 6
+Time without nested parallelism: 0.0026648 seconds
+Time with nested parallelism: 2.91427 seconds
+0:02.98,
+Threads = 7
+Time without nested parallelism: 0.00279016 seconds
+Time with nested parallelism: 4.0765 seconds
+0:04.14,
+Threads = 8
+Time without nested parallelism: 0.00289376 seconds
+Time with nested parallelism: 5.71497 seconds
+0:05.77,
+Threads = 9
+Time without nested parallelism: 0.00284647 seconds
+Time with nested parallelism: 7.66358 seconds
+0:07.73,
+Threads = 10
+Time without nested parallelism: 0.00277744 seconds
+Time with nested parallelism: 9.51427 seconds
+0:09.57,
+Threads = 11
+Time without nested parallelism: 0.00374629 seconds
+Time with nested parallelism: 12.5641 seconds
+0:12.62,
+Threads = 12
+Time without nested parallelism: 0.00278301 seconds
+Time with nested parallelism: 13.6644 seconds
+0:13.73,
+Threads = 13
+Time without nested parallelism: 0.00281408 seconds
+Time with nested parallelism: 17.812 seconds
+0:17.88,
+Threads = 14
+Time without nested parallelism: 0.00276024 seconds
+Time with nested parallelism: 21.8017 seconds
+0:21.87,
+Threads = 15
+Time without nested parallelism: 0.0027929 seconds
+Time with nested parallelism: 27.4073 seconds
+0:27.47,
+Threads = 16
+Time without nested parallelism: 0.00373262 seconds
+Time with nested parallelism: 29.371 seconds
+0:29.45,
+Threads = 17
+Time without nested parallelism: 0.00294296 seconds
+Time with nested parallelism: 28.9396 seconds
+0:29.00,
+Threads = 18
+Time without nested parallelism: 0.00274601 seconds
+Time with nested parallelism: 32.7566 seconds
+0:32.82,
